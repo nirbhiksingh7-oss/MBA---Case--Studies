@@ -55,5 +55,5 @@ restructure the European JV to redeploy ~$413M; formalize the leadership pipelin
 ---
 
 ### About me
-Business Intelligence & Operations Analyst — SQL · Power BI · Tableau · Excel
+Nirbhik Singh
 [LinkedIn](https://linkedin.com/in/nirbhik-singh-734a8221a) · nirbhikanalytics7@gmail.com
